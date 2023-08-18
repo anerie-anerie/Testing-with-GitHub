@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B19D73A62A8EFB7300A8AE34 /* RewardsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D73A52A8EFB7300A8AE34 /* RewardsScreen.swift */; };
+		B19D73A82A8EFBA100A8AE34 /* pickItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D73A72A8EFBA100A8AE34 /* pickItem.swift */; };
 		B1FF80E32A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FF80E22A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift */; };
 		B1FF80E52A8A6C8D00DDA434 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FF80E42A8A6C8D00DDA434 /* ContentView.swift */; };
 		B1FF80E72A8A6C8E00DDA434 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1FF80E62A8A6C8E00DDA434 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B19D73A52A8EFB7300A8AE34 /* RewardsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RewardsScreen.swift; sourceTree = "<group>"; };
+		B19D73A72A8EFBA100A8AE34 /* pickItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pickItem.swift; sourceTree = "<group>"; };
 		B1FF80DF2A8A6C8D00DDA434 /* Testing with GitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Testing with GitHub.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1FF80E22A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testing_with_GitHubApp.swift; sourceTree = "<group>"; };
 		B1FF80E42A8A6C8D00DDA434 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				B1FF80E22A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift */,
 				B1FF80E42A8A6C8D00DDA434 /* ContentView.swift */,
+				B19D73A52A8EFB7300A8AE34 /* RewardsScreen.swift */,
+				B19D73A72A8EFBA100A8AE34 /* pickItem.swift */,
 				B1FF80E62A8A6C8E00DDA434 /* Assets.xcassets */,
 				B1FF80E82A8A6C8E00DDA434 /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1FF80E52A8A6C8D00DDA434 /* ContentView.swift in Sources */,
+				B19D73A62A8EFB7300A8AE34 /* RewardsScreen.swift in Sources */,
 				B1FF80E32A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift in Sources */,
+				B19D73A82A8EFBA100A8AE34 /* pickItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
