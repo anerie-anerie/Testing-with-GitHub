@@ -15,6 +15,7 @@
 		B19D73B02A8EFC4F00A8AE34 /* rewardScreenMindfullness.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D73AF2A8EFC4F00A8AE34 /* rewardScreenMindfullness.swift */; };
 		B19D73B22A8EFC8E00A8AE34 /* hydration.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D73B12A8EFC8E00A8AE34 /* hydration.swift */; };
 		B19D73B42A8EFCB100A8AE34 /* nutrition.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D73B32A8EFCB100A8AE34 /* nutrition.swift */; };
+		B19D73B62A8EFCEB00A8AE34 /* NutRewardsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19D73B52A8EFCEB00A8AE34 /* NutRewardsScreen.swift */; };
 		B1FF80E32A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FF80E22A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift */; };
 		B1FF80E52A8A6C8D00DDA434 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FF80E42A8A6C8D00DDA434 /* ContentView.swift */; };
 		B1FF80E72A8A6C8E00DDA434 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1FF80E62A8A6C8E00DDA434 /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		B19D73AF2A8EFC4F00A8AE34 /* rewardScreenMindfullness.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rewardScreenMindfullness.swift; sourceTree = "<group>"; };
 		B19D73B12A8EFC8E00A8AE34 /* hydration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hydration.swift; sourceTree = "<group>"; };
 		B19D73B32A8EFCB100A8AE34 /* nutrition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nutrition.swift; sourceTree = "<group>"; };
+		B19D73B52A8EFCEB00A8AE34 /* NutRewardsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NutRewardsScreen.swift; sourceTree = "<group>"; };
 		B1FF80DF2A8A6C8D00DDA434 /* Testing with GitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Testing with GitHub.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1FF80E22A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testing_with_GitHubApp.swift; sourceTree = "<group>"; };
 		B1FF80E42A8A6C8D00DDA434 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				B19D73AF2A8EFC4F00A8AE34 /* rewardScreenMindfullness.swift */,
 				B19D73B12A8EFC8E00A8AE34 /* hydration.swift */,
 				B19D73B32A8EFCB100A8AE34 /* nutrition.swift */,
+				B19D73B52A8EFCEB00A8AE34 /* NutRewardsScreen.swift */,
 				B1FF80E62A8A6C8E00DDA434 /* Assets.xcassets */,
 				B1FF80E82A8A6C8E00DDA434 /* Preview Content */,
 			);
@@ -166,6 +169,7 @@
 				B19D73B02A8EFC4F00A8AE34 /* rewardScreenMindfullness.swift in Sources */,
 				B19D73AA2A8EFBCC00A8AE34 /* PhysicalActivity.swift in Sources */,
 				B19D73B22A8EFC8E00A8AE34 /* hydration.swift in Sources */,
+				B19D73B62A8EFCEB00A8AE34 /* NutRewardsScreen.swift in Sources */,
 				B1FF80E32A8A6C8D00DDA434 /* Testing_with_GitHubApp.swift in Sources */,
 				B19D73B42A8EFCB100A8AE34 /* nutrition.swift in Sources */,
 				B19D73A82A8EFBA100A8AE34 /* pickItem.swift in Sources */,
